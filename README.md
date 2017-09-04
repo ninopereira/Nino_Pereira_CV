@@ -17,15 +17,15 @@ Enthusiastic engineer with more than 10 years of industrial experience working i
 
 ## Highlighted Projects:
 
-!(360Eye)[360Eye.jpeg]
+![360Eye](360Eye.jpeg)
 #### Dyson 360 Eye robot vacuum cleaner – using 360 degrees vision system for autonomous navigation
 * Developed a new path deformation algorithm which combines both motion control and trajectory tracking functionalities taking into account the exact geometry of the robot and its kinematic constrains;
 
-!(Golf ball Picker Robot)[GoGrab.jpg]
+![Golf ball Picker Robot](GoGrab.jpg)
 #### Golf ball Picker Robot – mobile robot for picking balls autonomously in golf driving ranges
 * Developed new path planning algorithm for multiple non-mandatory targets, TWIN-RRT* which enables efficient asymptotically optimal trajectories to be generated in real time for up to 20 000 targets;
 
-!(Bot'n Roll ONE)[botnrollONE.jpg]
+![Bot'n Roll ONE](botnrollONE.png)
 #### BOT’N ROLL ONE – mobile educational robot platform 
 * Developed 4 generations of a mobile robotic platform from concept to product over 7 years which became a standard educational platform used in Roboparty® and Robocup™ international events
 
